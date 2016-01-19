@@ -54,7 +54,7 @@ address:
   - line: 'Ottawa, Canada'
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'A world of open source awesomeness. <a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer Theme</a> from <a href="http://startbootstrap.com">Start Bootstrap</a>. <a href="http://getbootstrap.com/">Bootstrap 3</a> design framework. <a href="https://jekyllrb.com/">Jekyll</a> backend. Hosted by <a href="https://pages.github.com/">Github pages</a>.'
 
 # Build settings
 markdown: kramdown
