@@ -5,6 +5,7 @@ date: 2015-12-30
 img: gvote.png
 alt: image-alt
 project-date: January 2015
+link: "https://vote.greenparty.ca"
 client: Green Party of Canda
 category: Ruby on Rails Web Development
 description: "GVote is a high specialized CRM designed to identify and manage Green Party supporters and campaigns. It is used for foot canvassing, ride and sign request management and volunteer management. Using Trello integration it also powers phone canvassing by Green Party call centres. Core technology is Ruby on Rails. Data technologies include MySQL, Couchbase NoSQL, SideKiq, Redis, Sphinx. Interface Technologies include Twitter Bootstrap, JQuery, Knockout.js. Reports are rendered using: d3.js, dimple.js."
